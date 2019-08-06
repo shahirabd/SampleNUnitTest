@@ -51,7 +51,6 @@ C:\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\nunitlite-runner.pdb
 C:\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\nunitlite-runner.dll.config
 C:\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\nunitlite.tests.pdb
 C:\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\slow-nunit-tests.pdb
-C:\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.csprojAssemblyReference.cache
 C:\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.csproj.CoreCompileInputs.cache
 C:\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.AssemblyInfoInputs.cache
 C:\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.AssemblyInfo.cs

@@ -7,7 +7,7 @@ namespace MyTests
 {
     public class Tests
     {
-        private readonly IWebDriver driver = new ChromeDriver("C:\\Users\\msba\\source\\repos\\SampleTest");
+        private readonly IWebDriver driver = new ChromeDriver("C:\\SampleTest");
         public void NavigateTo(string strUrl)
         {
             driver.Navigate().GoToUrl(strUrl);
