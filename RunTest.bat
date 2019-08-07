@@ -1,0 +1,1 @@
+dotnet test "c:\SampleTest\SampleTest\SampleTest.csproj"
