@@ -18,7 +18,10 @@ Install Nunit console
 4. Click install button
 
 Download the test project
-1. Download or clone to your machine
-2. Put the folder on your C:\ drive, rename the folder to 'SampleTest' if necessary
-3. Open the folder and run the 'RunTest.bat' file
-4. Alternatively, open command prompt and enter command: dotnet test "C:\SampleTest\SampleTest\SampleTest.csroj"
+1. Click 'Clone or Download' and choose 'Download ZIP'
+2. Save the zip file to your local drive.
+3. Extract the 'SampleNUnitTest-master.zip'
+4. Copy or move the 'SampleTest' folder inside 'SampleNUnitTest-master' folder to your 'C:/' drive
+5. Structure should be exactly like this: 'C:\SampleTest'
+6. Open command prompt and enter command: dotnet test "C:\SampleTest\SampleTest\SampleTest.csroj"
+7. Test should be executed, and result is logged in the console
